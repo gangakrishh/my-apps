@@ -6,7 +6,7 @@ public class GraphProblems {
 	
 	public static void main(String args[]){
 		
-		  Graph theGraph = new Graph(5);
+		  /*Graph theGraph = new Graph(5);
 	      theGraph.addVertex('A');    // 0  (start for dfs)
 	      theGraph.addVertex('B');    // 1
 	      theGraph.addVertex('C');    // 2
@@ -23,7 +23,7 @@ public class GraphProblems {
 	      System.out.println();
 	      System.out.print("Visits: ");
 	      theGraph.dfs();             // depth-first search
-	      
+*/	      
 	}
 	
 }
